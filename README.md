@@ -1,5 +1,5 @@
 # testnikky
-Een blog pagina over mijn stage bij taglayer
+Een blog pagina over mijn stage bij TagLayer
 
 ## Over dit project
 Dit is een test blog pagina gemaakt als onderdeel van mijn stage bij TagLayer.
